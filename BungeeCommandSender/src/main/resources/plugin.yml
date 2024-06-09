@@ -1,0 +1,12 @@
+name: BungeeCommandSender
+version: '${project.version}'
+main: dev.oddbyte.BungeeCommandSender
+api-version: '1.16'
+prefix: BungeeCommandSender
+load: STARTUP
+authors: [Oddbyte]
+description: Sends commands from spigot to bungeecord
+commands:
+  sendbungeecommand:
+    description: Send a command to be executed on BungeeCord
+    usage: /sendbungeecommand <command>
