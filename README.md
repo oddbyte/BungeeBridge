@@ -7,7 +7,7 @@
 * If you need to set up Vulcan or another anticheat to ban players from the proxy
 
 ### How do I use this?
-You can send any command to be executed as the user running the command in bungeecord with /sendbungeecommand <command>
+You can send any command to be executed as the user running the command in bungeecord with /sendbungeecommand \<command>
 
 ### Okay, how do I install it?
 1. Download the BungeeCommandExecutor in the releases tab or compile it from the source code. Put this one in the **SPIGOT** side.
